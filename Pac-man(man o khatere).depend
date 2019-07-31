@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1453380379 source:c:\users\tasteful\desktop\pac-man(man o khatere)\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string>
+	<sstream>
+
